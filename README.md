@@ -4,4 +4,4 @@ Repo to store projects from the book "Scala Machine Learning Projects" by Md. Re
 
 # List of projects
 
-* Project 1 (WIP) : Analyzing Insurance Severity Claims
+* Project 1 : [Analyzing Insurance Severity Claims](https://github.com/MohamedMoustafaNUIG/Scala-Machine-Learning-Projects/tree/master/src/main/scala/AnalyzingInsuranceSeverityClaims)
